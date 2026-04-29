@@ -32,9 +32,9 @@ function validarSenha(senha){
 }
 
 console.log(validarSenha(null));
-console.log(validarSenha('Davi'));
-console.log(validarSenha('Davi12'));
-console.log(validarSenha('Davi12@'));
-console.log(validarSenha('Davi12@O'));
+console.log(validarSenha('Maur'));
+console.log(validarSenha('Maur12'));
+console.log(validarSenha('Maur12@'));
+console.log(validarSenha('Maur12@O'));
 
 
